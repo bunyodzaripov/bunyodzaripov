@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/bunyodzaripov/bunyodzaripov/blob/main/source.gif?raw=true" width="150" height="150" alt="Profile GIF">
-</p>
-
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Bunyod</h1>
 <h3 align="center" style="color:#DCDCDC;">A passionate Frontend developer from Uzbekistan</h3>
 
@@ -46,28 +42,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
   </a>
 </p>
-
----
-
-### 📊 GitHub Stats: 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bunyodzaripov&label=Profile%20views&color=grey&style=flat" alt="Profile views" />
-</p>
-
-
-[![Bunyod's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bunyodzaripov&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=bunyodzaripov&show_icons=true&locale=en&theme=dark&bg_color=151515" alt="GitHub Stats" style="width: 33%;" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bunyodzaripov&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=151515" alt="Top Languages" style="width: 33%;" />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bunyodzaripov&theme=dark" alt="GitHub Streak" style="width: 33%;" />
-
-</div>
-
-
 
 ---
 <div align="center">
